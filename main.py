@@ -18,7 +18,7 @@ mixer.music.load("./imgs/Sounds/BGM8.wav")
 mixer.music.play(-1)  # -1 for play in loop music
 
 # Title and icon
-pygame.display.set_caption("My First Game")
+pygame.display.set_caption("Space Invaders")
 icon = pygame.image.load("./imgs/game-controller(1).png")
 pygame.display.set_icon(icon)
 
