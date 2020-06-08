@@ -132,7 +132,6 @@ while running:
 
     # Enemy movement
     for i in range(numOfEnemies):
-
         # Game Over
         if enemyY[i] > 440:
             for j in range(numOfEnemies):
